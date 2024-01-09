@@ -1,0 +1,77 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.header-text {
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    background-image:  url('../resources/Banner\ Image.png');
+    border-radius: 16px;
+    /* background-size: cover; */
+    /* position: relative; */
+    /* overflow: hidden; */
+    
+    
+
+}
+/* .obarly{ 
+    position: relative;
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    background-color: rgba(0, 0, 255, 7);
+    top: 0;
+    left: 0;}*/
+
+.text-header {
+    text-align: center;
+    color: #FFF;
+    font-family: Merriweather;
+    font-weight: 900;
+    padding-top: 177px;
+
+}
+
+.header-titel {
+    font-size: 32px;
+    /* padding: 177px 531px 383px 530px; */
+}
+
+.header-wel {
+    font-size: 72px;
+    /* padding: 233px 344px 177px 344px; */
+    padding-left: 344px;
+    padding-right: 344px;
+}
+
+/* main saction  */
+
+.titel-section{
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.titel{
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+
+}
+.saction-drescapion{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top:48px ;
+}
+.saction-footer{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+}
+.new-year-photo{
+   margin: 40px 30% 0px;
+}
