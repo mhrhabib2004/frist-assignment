@@ -231,9 +231,15 @@
 
 }
 
-/* .offer-img{ 
-    align-items: center;
-}  */
+.offer-img{ 
+    
+        width: 364px;
+        height: 364px;
+        border-radius: 50%;
+        border: 10px solid #FF0000;
+        padding: 15px;
+        margin-right: 250px;
+} 
 /* holydays style */
 
 
