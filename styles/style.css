@@ -9,15 +9,16 @@
     width: 1320px;
     height: 600px;
     margin: auto;
-    background-image:  url('../resources/Banner\ Image.png');
+    background-image: url('../resources/Banner\ Image.png');
     border-radius: 16px;
     /* background-size: cover; */
     /* position: relative; */
     /* overflow: hidden; */
-    
-    
+
+
 
 }
+
 /* .obarly{ 
     position: relative;
     width: 1320px;
@@ -50,28 +51,192 @@
 
 /* main saction  */
 
-.titel-section{
+.titel-section {
     text-align: center;
     margin-top: 100px;
-   
+
 }
-.titel{
+
+.titel {
     color: #F00;
     font-size: 88px;
     font-weight: 700;
 
 }
-.saction-drescapion{
+
+.saction-drescapion {
     color: #F00;
     font-size: 24px;
     font-weight: 500;
-    padding-top:48px ;
+    padding-top: 48px;
 }
-.saction-footer{
+
+.saction-footer {
     color: #070211;
     font-size: 48px;
     font-weight: 700;
 }
-.new-year-photo{
-   margin: 40px 30% 0px;
+
+.new-year-photo {
+    margin: 40px 30% 0px;
+}
+
+/* wellcome saction */
+
+.wellcome-saction {
+    width: 1320px;
+    height: 600px;
+    display: flex;
+    background-image: url('../resources/Vectorrr.png');
+    margin: auto;
+    margin-top: 120px;
+}
+
+.wellcome-saction-itams {
+    padding-top: 126px;
+    padding-left: 126px;
+
+
+}
+
+.header-well {
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    padding-bottom: 24px;
+    padding-right: 94px;
+
+}
+
+
+.wellcome-drescaption {
+    color: #FFF;
+    font-size: 18px;
+    padding-bottom: 48px;
+    padding-right: 39px;
+
+}
+
+.join {
+    color: #FFF;
+    padding-left: 158px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.group-pic {
+    padding-right: 138px;
+    padding-bottom: 68px;
+    padding-top: 68px;
+}
+
+/* hotel park saction */
+.new-park-hotel-items {
+    width: 1320px;
+    height: 482px;
+    background: #eccccc;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 10px;
+}
+
+.hotel-items {
+    padding-top: 100px;
+}
+
+.hotel-items h3 {
+    color: #070211;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+
+}
+
+.hotel-items span {
+    color: #F00;
+}
+
+.btn {
+    text-align: center;
+    padding-top: 64px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #ff0606;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+/* offer items */
+
+.best-offer-items {
+    display: flex;
+    width: 1320px;
+    height: 482px;
+    margin: auto;
+    margin-top: 120px;
+    background: #FFF;
+}
+
+.best-offer-titel {
+    color: #F00;
+    /* text-align: center; */
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.offer-years {
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.best-offer-main {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.offer-drescription {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 393px;
+}
+
+.offers-years-drescription {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 150px;
+
+}
+
+/* .smmal-new-year {
+    position: bottom right;
+} */
+
+/* holydays style */
+
+.holydays-saction {
+    width: 1600px;
+    height: 7335px;
+}
+
+.holydays {
+    /* text-align: center; */
 }
